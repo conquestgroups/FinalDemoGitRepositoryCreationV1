@@ -6,4 +6,9 @@ public class gitClass
     {
         Debug.WriteLine("This is a method in the gitClass.");
     }
+
+    public void git4Method()
+    {
+        Debug.WriteLine("This is a four in the gitClass.");
+    }
 }   
